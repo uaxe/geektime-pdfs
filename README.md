@@ -1,7 +1,7 @@
 ## 极客时间 PDF
 
 ----
-
+将图片都保存到PDF中，再也不担心图片链接失效
 
 * 看 markdown文档，推荐: https://github.com/uaxe/geektime-docs 🌟🌟🌟
 * 看 pdf文档，推荐: https://github.com/uaxe/geektime-pdfs 🌟🌟🌟
